@@ -1,4 +1,4 @@
-# Projeto: Gerenciamento de Heróis
+Gerenciamento de Heróis e batalha ⚔️
 
 ![Banner](/images/banner.png)
 
