@@ -32,7 +32,6 @@ O Projeto de Gerenciamento de Heróis é uma aplicação de backend desenvolvida
 
 Para testar cada rota individualmente, siga estas instruções:
 
-```markdown
 1. Rota para obter todos os heróis
 
 - Método: GET
@@ -43,14 +42,12 @@ Para testar cada rota individualmente, siga estas instruções:
 - Método: POST
 - URL: `http://localhost:6000/heroes`
 - Corpo da Requisição (JSON):
-  ```json
   {
       "name": "Nome do Herói",
       "power": "Poder do Herói",
       "level": 1,
       "hp": 100
   }
-  ```
 
 3. Rota para atualizar um herói
 
@@ -58,14 +55,12 @@ Para testar cada rota individualmente, siga estas instruções:
 - URL: `http://localhost:6000/heroes/{id}`
   - Substitua `{id}` pelo ID do herói que deseja atualizar.
 - Corpo da Requisição (JSON):
-  ```json
   {
       "name": "Novo Nome do Herói",
       "power": "Novo Poder do Herói",
       "level": 2,
       "hp": 150
   }
-  ```
 
 4. Rota para deletar um herói
 
