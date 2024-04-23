@@ -24,7 +24,7 @@ O Projeto de Gerenciamento de Heróis é uma aplicação de backend desenvolvida
 2. Instale as dependências do projeto usando `npm install`.
 3. Configure o banco de dados PostgreSQL com o nome `heroes_db` e execute o script `database.sql` para criar as tabelas necessárias.
 4. Abra o arquivo `index.js` e ajuste as configurações do banco de dados conforme necessário (usuário, senha, host, porta).
-5. Inicie o servidor executando `npm start`.
+5. Inicie o servidor executando `npm run dev`.
 6. Acesse as diferentes rotas disponíveis conforme a documentação fornecida.
 
 ## Documentação e teste de rotas
@@ -106,7 +106,7 @@ Para testar cada rota individualmente, siga estas instruções:
 
 - Método: GET
 - URL: `http://localhost:6000/battles/heroes`
-```
+
 
 **Aviso Importante:**
 
