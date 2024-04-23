@@ -1,6 +1,6 @@
 # Projeto: Gerenciamento de Heróis
 
-![Banner](link_para_sua_imagem_banner.jpg)
+![Banner](/images/banner.png)
 
 ## Introdução
 
