@@ -1,4 +1,4 @@
-##Gerenciamento de Heróis e batalha ⚔️
+##Gerenciamento de Heróis e batalha
 
 ![Banner](/images/banner.png)
 
