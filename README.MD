@@ -22,7 +22,7 @@ O Projeto de Gerenciamento de Heróis é uma aplicação de backend desenvolvida
 
 1. Clone o repositório para o seu ambiente local.
 2. Instale as dependências do projeto usando `npm install`.
-3. Configure o banco de dados PostgreSQL com o nome `heroes_db` e execute o script `database.sql` para criar as tabelas necessárias.
+3. Configure o banco de dados PostgreSQL com o nome `heroes_db` e execute o script `script.sql` para criar as tabelas necessárias.
 4. Abra o arquivo `index.js` e ajuste as configurações do banco de dados conforme necessário (usuário, senha, host, porta).
 5. Inicie o servidor executando `npm run dev`.
 6. Acesse as diferentes rotas disponíveis conforme a documentação fornecida.
